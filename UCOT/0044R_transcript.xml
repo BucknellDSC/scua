@@ -1,0 +1,963 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="null"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Interview with Ada Herman</title>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Union County Historical Society</authority>
+				<publisher>Special Collections/University Archives, Bucknell University</publisher>
+				<date>February 26, 1976</date>
+			</publicationStmt>
+			<sourceDesc>
+				<recordingStmt>
+					<recording>
+						<date>February 26, 1976</date>
+						<respStmt>
+							<name>Joan Maurer</name>
+							<resp>interviewer</resp>
+						</respStmt>
+						<respStmt>
+							<name>Ada Herman</name>
+							<resp>interviewee</resp>
+						</respStmt>
+					</recording>
+				</recordingStmt>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<div>
+				<docAuthor>Interviewer: Joan Maurer</docAuthor>
+				<docAuthor>Interviewee: Ada Herman</docAuthor>
+				<address>
+					<addrLine>Place: Ada Herman&apos;s Home</addrLine>
+				</address>
+				<docDate>February 26, 1975</docDate>
+			</div>
+		</front>
+		<body>
+			<div>
+				<sp>
+					<speaker>Joan: </speaker>
+					<ab>Okay now we were talking about the parts of the pig that you used when you
+						started to tell me about the head. </ab>
+				</sp>
+				<sp>
+					<speaker>Ada: </speaker>
+					<ab>We cleaned some of the head meat and the liver and the heart and poil that
+						and grind it and then what we&apos;d trim off of the shoulders and the hams
+						and then, and the other meat that use that we trimmed off of the pork shops
+						and we&apos;d grind that for sausage. </ab>
+				</sp>
+				<sp>
+					<speaker>Joan: </speaker>
+					<ab>Did you use the brains? </ab>
+				</sp>
+				<sp>
+					<speaker>Ada: </speaker>
+					<ab>Yes we used the brains. The brains we generally kept out and fried them and
+						eat them right away. We didn’t use them for anything else. And the leg
+						we&apos;d use, we&apos;d boil, we&apos;d clean them good and use them for
+						souse, boil em. </ab>
+				</sp>
+				<sp>
+					<speaker>Joan: </speaker>
+					<ab>Did you throw the tail away? </ab>
+				</sp>
+				<sp>
+					<speaker>Ada: </speaker>
+					<ab>What&apos;s that? </ab>
+				</sp>
+				<sp>
+					<speaker>Joan: </speaker>
+					<ab>I said did you throw the tail away? </ab>
+				</sp>
+				<sp>
+					<speaker>Ada: </speaker>
+					<ab>Oh the most of it, it was just a stamp of the tail and some of the backbone
+						we&apos;d ah, we&apos;d generally use that for Sauerkraut but then the neck,
+						we called it the put, that made a good roast. You, you&apos;d take pork
+						chops off but the end would be a big piece that we&apos;d roast and ah . . .
+					</ab>
+				</sp>
+				<sp>
+					<speaker>Joan: </speaker>
+					<ab>What about the ears? </ab>
+				</sp>
+				<sp>
+					<speaker>Ada: </speaker>
+					<ab>Well we didn’t use ears. We threw them away (laughs) </ab>
+				</sp>
+				<sp>
+					<speaker>Joan: </speaker>
+					<ab>And you used the tongue. </ab>
+				</sp>
+				<sp>
+					<speaker>Ada: </speaker>
+					<ab>Yes the tongue. Sometimes we&apos;d smoke the tongue, That would be good. We
+						put it in salt grind and ah, and then smoke it when we&apos;d smoke our,
+						well we generally smoked them by themselves if we had a couple tongues. They
+						would be good sliced cold after you boil them then after they&apos;re smoked
+						and they&apos;re good fried, not fried, but just good when they&apos;re
+						smoked then they&apos;re boiled, then they’re smoked and then you slice them
+						and eat them cold. </ab>
+				</sp>
+				<sp>
+					<speaker>Joan: </speaker>
+					<ab>And all this needs was cooked outside over a fire? </ab>
+				</sp>
+				<sp>
+					<speaker>Ada: </speaker>
+					<ab>We generally, we had a butcher house where they had two iron kettles on the
+						furnace, we called it a furnace and there we&apos;d boil our ah, we rendered
+						the lard you know in a kettle and ah, and we boiled the, the head meat and
+						the liver and lungs, liver and heart and and that would get ground then for
+						pudding. </ab>
+				</sp>
+				<sp>
+					<speaker>Joan: </speaker>
+					<ab>How did you keep some of the meat that you didn&apos;t smoke? Did you can
+						it? </ab>
+				</sp>
+				<sp>
+					<speaker>Ada: </speaker>
+					<ab>Only the sirloin. We canned the sirloin. And ah we fried that, we salted it
+						in a crock and then let it set oh maybe just overnight and then we&apos;d
+						fry it and put it in jars and then boil up the, the frying, the pan where
+						we, we&apos;d take the meat out of the pan and then pour water in the pan
+						and boil that up and put that water over the meat and then we&apos;d screw
+						our jars shut and put them in a cold water bath and bolt em for about
+						fifteen minutes. That would seal em tight you know better than if we just
+						sealed em after we fried em first and put them, we never had any trouble of
+						not keeping them when we boiled them, a couple well about ten-fifteen
+						minutes. </ab>
+				</sp>
+				<sp>
+					<speaker>Joan: </speaker>
+					<ab>Then how did you prepare the meat for a meal? </ab>
+				</sp>
+				<sp>
+					<speaker>Ada: </speaker>
+					<ab>Well then, it, it would be fried and they&apos;d have the frying, the water
+						where it was fried in that would be in the jar, we&apos;d pour that all out
+						and then put in, make the gravy over the meat. </ab>
+				</sp>
+				<sp>
+					<speaker>Joan: </speaker>
+					<ab>How often did you butcher? </ab>
+				</sp>
+				<sp>
+					<speaker>Ada: </speaker>
+					<ab>we did it twice in the winter, but then we&apos;d butcher two at a time. (B)
+						Okay, you were talking about tallow candles. You said that you also
+						butchered a beef. How often did you do this just one beef a year? </ab>
+				</sp>
+				<sp>
+					<speaker>Ada: </speaker>
+					<ab>Just one beef a year usually. </ab>
+				</sp>
+				<sp>
+					<speaker>Joan: </speaker>
+					<ab>Was that a similar a process to the butchering of... </ab>
+				</sp>
+				<sp>
+					<speaker>Ada: </speaker>
+					<ab>if we, if we could butcher beef at the same time then we&apos;d put some of
+						the odd fallings of the beef in with the, with the pork and grind it for
+						sausage. And the, tallow we&apos;d fry that out and we often sold tallow,
+						we&apos;d have a little bit of tallow we made tallow candles but not, not so
+						many. Later on after we got the coal oil lights you know we didn&apos;t
+						bother with tallow candles anymore. We just rendered the tallow and sold it
+						or used it for a soap once in awhile we&apos;d get some of that soap fat.
+					</ab>
+				</sp>
+				<sp>
+					<speaker>Joan: </speaker>
+					<ab>Did you make other kinds of candles besides the tallow candle? You made the
+						tallow candles in a mild, is that right. </ab>
+				</sp>
+				<sp>
+					<speaker>Ada: </speaker>
+					<ab>Oh yes. </ab>
+				</sp>
+				<sp>
+					<speaker>Joan: </speaker>
+					<ab>What kind of wicking did you use? Something you brought or . . . </ab>
+				</sp>
+				<sp>
+					<speaker>Ada: </speaker>
+					<ab>It, it was a special wicking that we&apos;d buy at that time. I can’t just
+						say what it was called, it was white, itwas, we would have two or three
+						sticks which we generally put six candles in a mild at one time, and, and
+						we&apos;d put this twine the length that we’d want it, cut the length that
+						we&apos;d want it and put it over the, over the wooden sticks that we&apos;d
+						have and then run it down through the candle, through the mold and knot it
+						at the other end, after we&apos;d have six in the mold and have em inotted
+						already then we&apos;d pour the hot tallow over them and set them in a cold
+						place till they got cold and then pull em out and they&apos;d be tallow
+						candles. </ab>
+				</sp>
+				<sp>
+					<speaker>Joan: </speaker>
+					<ab>How long did it take for them to harden. </ab>
+				</sp>
+				<sp>
+					<speaker>Ada: </speaker>
+					<ab>Well it just depended how cold it was. If you&apos;d set em out in the cold
+						why they&apos;d harden in a couple of hours. They&apos;d be ready for use
+						then and the candles we always had ah keep em at a cold place those that we
+						wanted to use and we&apos;d have special tallow candle holders where
+						we&apos;d put them in to light them. </ab>
+				</sp>
+				<sp>
+					<speaker>Joan: </speaker>
+					<ab>What was different about the tallow candle holder? </ab>
+				</sp>
+				<sp>
+					<speaker>Ada: </speaker>
+					<ab>Well it, what we had were brass tallow candle holders we called them. They
+						were, oh shaped a little like a small, like a smaller plate, shaped like a
+						smallest pie plate and we&apos;d have a snuffer would go with the candle
+						holder and when the light would be burned up quite a bit why then you&apos;d
+						have to snuff it off and tallow candle holders, they would be nice if you
+						tip them nice but what we had were brass and I&apos;d scour them once a week
+						we had to scour them and then they would look like old but it would tarnish
+						them after they were used for about a week. </ab>
+				</sp>
+				<sp>
+					<speaker>Joan: </speaker>
+					<ab>Do you remember what you had used to scour the holders? <pb n="4"/>
+					</ab>
+				</sp>
+				<sp>
+					<speaker>Ada: </speaker>
+					<ab>Coal ashes. (J) Coal ashes. </ab>
+				</sp>
+				<sp>
+					<speaker>Ada: </speaker>
+					<ab>Yes that&apos;s what we used to scour those. (3) Did you ever put a scent
+						into you candle so that it would smell different than just the tallow? </ab>
+				</sp>
+				<sp>
+					<speaker>Ada: </speaker>
+					<ab>No not that I know of. I guess we didn&apos;t know that much yet (laughs)
+					</ab>
+				</sp>
+				<sp>
+					<speaker>Joan: </speaker>
+					<ab>Was candle making a weekly chore or did you do it once for the whole year?
+					</ab>
+				</sp>
+				<sp>
+					<speaker>Ada: </speaker>
+					<ab>Well we just done that to, well if we kept tallow, why we could heat the
+						tallow anytime and we made candles anytime of the year. But I, I don’t
+						remember, we, we didn&apos;t use too many tallow candles then anymore. After
+						I got older why then we used more different lights. </ab>
+				</sp>
+				<sp>
+					<speaker>Joan: </speaker>
+					<ab>Do you remember the old brick bake ovens? </ab>
+				</sp>
+				<sp>
+					<speaker>Ada: </speaker>
+					<ab>Yes. I remember them. My grandfather had a brick bake oven and they baked
+						bread in it. They took so much wood in, they&apos;d know just about what
+						kind of wood they had to have and how much and they when that wood was all
+						burned up they would have a scraper to scrape the ashes out and then they
+						would have their bread ready to put in the oven. They&apos;d put it all in
+						at one time then while it was hot and ah they had to know how much wood to
+						have and how hot the oven, but they had no thermometer or anything, you just
+						had to judge that, you know at that time. Its ah, and I, I know that my aunt
+						we never had any but I know that my aunt, I&apos;ve seen her bake bread in
+						the bake oven. </ab>
+				</sp>
+				<sp>
+					<speaker>Joan: </speaker>
+					<ab>Where was that oven? Was it in her house or a separate building? </ab>
+				</sp>
+				<sp>
+					<speaker>Ada: </speaker>
+					<ab>no, it was definitely in a separate building. It had a roof over it, it was
+						in a house and then they had the kind of wood that we needed we had that
+						ready like a woodhouse you know we&apos;d have it set up at the side like a
+						bake oven. No bake oven bread, if the oven was just right, why it seemed we
+						thought bake oven bread couldn’t be beat. We thought it was better than what
+						we baked in our range. </ab>
+				</sp>
+				<sp>
+					<speaker>Joan: </speaker>
+					<ab>Did they take other things at the time they baked bread or did they just
+						bake bread? </ab>
+				</sp>
+				<sp>
+					<speaker>Ada: </speaker>
+					<ab>It had to be a little hotter for pies and for cakes I think we backed cakes
+						at the same time we baked bread but we generally had it a little hotter oven
+						then when you baked pies. I don&apos;t think we put pies and cakes and bread
+						all in at the same time. </ab>
+				</sp>
+				<sp>
+					<speaker>Joan: </speaker>
+					<ab>This Mrs. Hollenbach that you talked about who did the pow wowing and the,
+						she was a midwife. Ah do you remember anything much about her? Did she ever
+						tell anybody any of her secrets? How was pow-wowing passed from one person
+						to another. </ab>
+				</sp>
+				<sp>
+					<speaker>Ada: </speaker>
+					<ab>I, I don&apos;t know whether she could teach anybody else or not. There was
+						nobody else around that did pow-wowing that I know of. She was, she was
+						brought, er they got her from oh sometimes from miles around they would
+						fetch her well usually for a midwife. She seemed to know more about what,
+						how to take care of it maybe or what to feed it first and she, and she was
+						good for anybody that had pneumonia or inflammation of any kind. She
+						pow-wowed for the information and she would make polise put polise on your
+						chest to loosen it up. She had certain kinds of teas that she used to make
+						polise. She tried to have seven different kinds of bitter teas she used ah I
+						forget the name of the tea, of the tea that we used. And then she used I
+						know what she used but I can&apos;t remember the names anymore of the
+						different kinds of tea that she used but she gattered teas and roots out in
+						the woods. She&apos;d know just what to gather. </ab>
+				</sp>
+				<sp>
+					<speaker>Joan: </speaker>
+					<ab>Was there ever any proof that she healed anybody or was it just whether you
+						believed it or not? </ab>
+				</sp>
+				<sp>
+					<speaker>Ada: </speaker>
+					<ab>Well I know that I had syphillis and all that I ever had done for it, she
+						pow-wowed for it and it didn’t last long. My hand was swollen thick and
+						(coughs) and she would pow-wow a couple times in a day. I&apos;d have to
+						stay there, she had, she has certain signs that she . . . </ab>
+				</sp>
+				<sp>
+					<speaker>Joan: </speaker>
+					<ab>How much did she charge? </ab>
+				</sp>
+				<sp>
+					<speaker>Ada: </speaker>
+					<ab>Oh she wouldn&apos;t charge anything. She would take whatever you&apos;d
+						give her. But she didn&apos;t want much but we always gave her something.
+						But ah she, she didn’t charge. Oh for, for a confinement case she charged $2
+						and a half but then she would come a couple times then and after the first
+						day till she seen that you was in good shape and alright. </ab>
+				</sp>
+				<sp>
+					<speaker>Joan: </speaker>
+					<ab>Where did she live? <pb n="6"/>
+					</ab>
+				</sp>
+				<sp>
+					<speaker>Ada: </speaker>
+					<ab>She lived on a farm. I believe they call it Chesnet Ridge now I guess.
+						Between Kratzerville and Shamakin Dam. </ab>
+				</sp>
+				<sp>
+					<speaker>Joan: </speaker>
+					<ab>What was her first name? </ab>
+				</sp>
+				<sp>
+					<speaker>Ada: </speaker>
+					<ab>Rebecca Hollenbach </ab>
+				</sp>
+				<sp>
+					<speaker>Joan: </speaker>
+					<ab>Hollenbach? </ab>
+				</sp>
+				<sp>
+					<speaker>Ada: </speaker>
+					<ab>Yes Rebecca Hollenbach. </ab>
+				</sp>
+				<sp>
+					<speaker>Joan: </speaker>
+					<ab>In addition to healing people do you know of any time could she put a hex on
+						you? Did you know anybody who&apos;d do that? </ab>
+				</sp>
+				<sp>
+					<speaker>Ada: </speaker>
+					<ab>Oh I, I used to hear about that but oh she, she didn&apos;t do that. I know,
+						I remember a lady she couldn’t, she couldn&apos;t or she was trying to bar
+						the soap and she didn&apos;t get any soap it didn’t get strong, it
+						wasn&apos;t ripe and then she said somebody bewitched her soap stuff that
+						she couldn&apos;t bar soap and all, all her trouble was she hadn&apos;t put
+						enough caustic soda in too make it strong. (laughs) Thats what I always
+						thought. But ah I remember some people but I don&apos;t remember anybody
+						that they blamed for bewitching but I, I heard people say about it,
+						they&apos;d say it was bewitched. (laughs) </ab>
+				</sp>
+				<sp>
+					<speaker>Joan: </speaker>
+					<ab>Do you remember some of the other cases? Was there any witchcraft in the
+						area at all? </ab>
+				</sp>
+				<sp>
+					<speaker>Ada: </speaker>
+					<ab>No not that I not around where we lived. </ab>
+				</sp>
+				<sp>
+					<speaker>Joan: </speaker>
+					<ab>Did people ever tell stories of witchcraft or superstitions? You said your
+						husbands mother had superstitions. What were they? Norman&apos;s Mother.
+					</ab>
+				</sp>
+				<sp>
+					<speaker>Ada: </speaker>
+					<ab>Yes. She was the one that said you couldn&apos;t go in swimming during dog
+						days or you&apos;d get boiled. And I don&apos;t know if there was anything
+						else. Oh you couldn&apos;t change underwear between Christman and New Year.
+					</ab>
+				</sp>
+				<sp>
+					<speaker>Joan: </speaker>
+					<ab>Why was that? </ab>
+				</sp>
+				<sp>
+					<speaker>Ada: </speaker>
+					<ab>You, you’d get sick, you&apos;d have to be washing all the year then. </ab>
+				</sp>
+				<sp>
+					<speaker>Joan: </speaker>
+					<ab>Did they ever have any proof that this came true? </ab>
+				</sp>
+				<sp>
+					<speaker>Ada: </speaker>
+					<ab>Oh well, one time my, my mother-in-law said that they, they got scarlet
+						fever and she said they were sick so much from that time on all winter or
+						all spring and after that they&apos;d never would wash anymore between
+						Christman and New Year (laughs) because they thought that was the reason. I
+						don&apos;t know I guess there were some more things <pb n="7"/> but I just
+						can&apos;t remember. </ab>
+				</sp>
+				<sp>
+					<speaker>Joan: </speaker>
+					<ab>You lived on a farm. How did, how did they do for instance harvesting of
+						wheat before they had combines? Do you remember? </ab>
+				</sp>
+				<sp>
+					<speaker>Ada: </speaker>
+					<ab>Oh yeah. They had a harvester that they used that they called a harvester
+						and that would just there&apos;d be a platform on the harvester and then
+						every so often there would be a scraper come around and would scrape it off,
+						just enough for one sheave. And then we&apos;d have to have hired men come
+						and tie up the, the tie up they wheat then on the sheave and you&apos;d
+						always have to have a couple of men to harvest you know it took men. Some to
+						tie up the sheeves and some would tie er carry em together and put them on
+						top and men at that time the couple first years after I was married we, the
+						men just charged 50$ a day to harvest but you had to board them breakfast,
+						dinner, and supper, but then later on they charged a dollar a day and then
+						they didn&apos;t come for breakfast. </ab>
+				</sp>
+				<sp>
+					<speaker>Joan: </speaker>
+					<ab>Were these local men or did they come from other area? </ab>
+				</sp>
+				<sp>
+					<speaker>Ada: </speaker>
+					<ab>No they were, they were men that had worked in the ore mines at that place
+						called the Violet that wasn&apos;t more of a mile from our place and when
+						the, the when the furnace shut down and they, they didn’t dig for ore
+						anymore why then they had no work. Then they had to depend on working for
+						the farmers. </ab>
+				</sp>
+				<sp>
+					<speaker>Joan: </speaker>
+					<ab>Now that was the Winfield furnace that your talking about? </ab>
+				</sp>
+				<sp>
+					<speaker>Ada: </speaker>
+					<ab>Yes. </ab>
+				</sp>
+				<sp>
+					<speaker>Joan: </speaker>
+					<ab>And this ore mine, that was on the north side of the New Berlin Mountain.
+					</ab>
+				</sp>
+				<sp>
+					<speaker>Ada: </speaker>
+					<ab>Yes, Yes. Yes it wasn&apos;t so far from where our place, ah place where,
+						there were places, there were a couple places on the mountain you know where
+						you&apos;d go down in the ore mines where they were working then. There were
+						a good many working in there for pretty many years I guess. But when, when
+						that shut down that they didn&apos;t, didn&apos;t run that furnace anymore
+						why then of course those men were out of work. </ab>
+				</sp>
+				<sp>
+					<speaker>Joan: </speaker>
+					<ab>Do you remember anything before the harvester came. Did you ever have to    
+					</ab>
+				</sp>
+				<sp>
+					<speaker>Ada: </speaker>
+					<ab>Well they, the rye, rye wheat you&apos;d cradle that, we called it
+						cradeling, you didn&apos;t use a safe, you didn&apos;t use a safe to cut
+						grass but we, we called it a credle to candle the rye and that you&apos;d
+						tie up at and you&apos;d flale that out and use that rye <pb n="8"/> straw
+						to make a, a string to tie the wheat. That was before they had bindertwine.
+						They&apos;d use rye straw to tie the wheat sheaves but then after later on
+						then we had a binder, then it would, then we had bindertwine and then we
+						would take and tie the sheaves but it would just tie sheaves and let that
+						lay then the sheaves would have to be carried together and some man would
+						stock them and then the wheat had to be loaded on wagons and hauled in the
+						barn and mound into mound until we were ready for slashing. Then, then after
+						it was slashed, but then the wheat would be run over a fanning mill to, it,
+						it till it would be clean enough to sell or to use for to take to the mill.
+						And a farming mill was just a, well you&apos;d have your fanning mill on the
+						slashing floor and you&apos;d, you&apos;d turn it by hand. Someone would put
+						the wheat in and then maybe someone would have to shovel it away or it would
+						run through the fanning mill and that wheat would be cleaned nice and clean
+						though but it, it&apos;d make alot of work. The whole winter (laughs) (3)
+						What was the machine that was turned by horses? </ab>
+				</sp>
+				<sp>
+					<speaker>Ada: </speaker>
+					<ab>Well we just called it the thrashing machine. It was older than, it was
+						different I guess from the thrashing machines when they had those fraction
+						ends that they would go around thrashing. They had a different machine then.
+						That was later on then but that would clean it, clean the wheat better than
+						would the old-fashioned thrashing machine where you use the horses to in
+						place of steam heat. </ab>
+				</sp>
+				<sp>
+					<speaker>Joan: </speaker>
+					<ab>What, what job did the horses do? </ab>
+				</sp>
+				<sp>
+					<speaker>Ada: </speaker>
+					<ab>The, the horses would just go around in a ring. They’rd be a platform where
+						the driver would stand in the middle of a platform and then there were arms
+						going out to different places like the, like the arm of a tonque of a wagon.
+						And then they’rd be usually about three to four horses and they would go
+						around and that would keep the machine going to run the wheat to run the
+						wheat through, to thrash it. But then even after they had the fraction and
+						the different machine then we generally cleaned some of the wheat when we
+						wanted it real clean to take to the mill for, we&apos;d take our own wheat
+						to the mill and have it ground for flour for bread. We always baked our own
+						bread then. And then, but then to sell it sold why we didn’t have to run it
+						all over <pb n="9"/> the farming mill, only what we wanted specially clean.
+					</ab>
+				</sp>
+				<sp>
+					<speaker>Joan: </speaker>
+					<ab>Do you remember anything about the ore mines that you mentioned earlier? Did
+						you know anyone who worked in the ore mine? </ab>
+				</sp>
+				<sp>
+					<speaker>Ada: </speaker>
+					<ab>Oh yes. The men that worked in the ore mine worked for us by the days then
+						after they had no work anymore. They would work for us then oh help to make
+						fences and, and in harvest you know to help, we would always have to have a
+						couple men harvest. </ab>
+				</sp>
+				<sp>
+					<speaker>Joan: </speaker>
+					<ab>Did they ever talk about the mine? </ab>
+				</sp>
+				<sp>
+					<speaker>Ada: </speaker>
+					<ab>Oh yes. Yes. Yes they were men that lived in a place we called Violet. There
+						were a good many houses around just a little town. It was called the mining
+						town. Then afterwards when they didn&apos;t work in the mines anymore the
+						name was changed to Violet cause there were so many violets growing around
+						there. But my, my father-in-law hauled ore to Winfield at that time there
+						were different men around there that hauled ore and they had big heavy
+						wagons and they&apos;d have four horses in a wagon. It was heavy but
+						they&apos;d have it loaded pretty good. Then they&apos;d haul, haul the ore
+						to Winfield, we called it the furnace road, they&apos;d go down the Furnace
+						road to Winfield, that&apos;d be kind of a bad road to Winfield. </ab>
+				</sp>
+				<sp>
+					<speaker>Joan: </speaker>
+					<ab>Were the mines dangerous, were there ever any accidents or weren’t they
+						similar to coal mines? </ab>
+				</sp>
+				<sp>
+					<speaker>Ada: </speaker>
+					<ab>No, no. No accidents happened. Not, not in the mining that I found out or
+						anything but down at the furnace when they&apos;d do the furnace I think
+						they had some accidents. They had to do so much work you know when they
+						built this, this furnace and smokestack and the buildings that they used at
+						that time. </ab>
+				</sp>
+				<sp>
+					<speaker>Joan: </speaker>
+					<ab>Do you have anything that you made notes of that you want to make sure that
+						you tell me? </ab>
+				</sp>
+				<sp>
+					<speaker>Ada: </speaker>
+					<ab>No. I guess I just had about the wheat harvesting. You know after the hinder
+						then they got these combines. Some people had the combines but it took a
+						long time before everybody could have a combine because they were pretty
+						expensive at first and some people thought you know they were too heavy to
+						go in the field if it was a little <pb n="10"/> wet it would make the ground
+						so hard and you had to let the wheat get so good and ripe because it would
+						thrash it right away in the field you know you&apos;d have a wagon coming
+						after to put the wheat on bags and hauled it in or haul it to the mill or
+						whereever you wanted to take it. Thrashing with a  that was kind of a it was
+						a big, big pole that you&apos;d hold in you hand and then there was just a
+						small pole at the end and then there was a hole dried in that ah the small
+						flale would tie fast to the one that you&apos;d hold and you&apos;d just
+						have that to, that would be oh well (laughs) I remember what they look like
+						but I can&apos;t describe them. They ah... </ab>
+				</sp>
+				<sp>
+					<speaker>Joan: </speaker>
+					<ab>Did you beat the wheat when you had it laying on the barn floor or did
+						you... </ab>
+				</sp>
+				<sp>
+					<speaker>Ada: </speaker>
+					<ab>Yes we have the rye laying on the barn floor all in a row and then we&apos;d
+						go around with a flale to flale the grain out and then we&apos;d tie up the
+						straw or try not to break the straw too much because we wanted to use that
+						to tie the wheat at each end. Take two bunches of rye straw and there was a
+						way that they knew how to knot it together to make, make enough to tie em.
+						That was before they had bindertwine. </ab>
+				</sp>
+				<sp>
+					<speaker>Joan: </speaker>
+					<ab>Did you ever make rag carpet? </ab>
+				</sp>
+				<sp>
+					<speaker>Ada: </speaker>
+					<ab>What? </ab>
+				</sp>
+				<sp>
+					<speaker>Joan: </speaker>
+					<ab>Did you ever make rag carpet? </ab>
+				</sp>
+				<sp>
+					<speaker>Ada: </speaker>
+					<ab>Oh yes. All our clothes, our aprons or dresses or anything that we could
+						tear them up in strips and then we had, had to sew carpet rags. We, we
+						didn&apos;t like that (laughs) but we had so much work of sewing, sewing
+						carpet rags and then we&apos;d have enough to roll em on a ball then you’d
+						have so many balls of carpet rags then you&apos;d take em to the weavers and
+						they would, they would weave em into carpet then. You had to buy the, well
+						the different colored yarn to make the stripes in the carpet. Its been so
+						long ago too that I don’t remember right but I well remember how we had to
+						sew carpet rags and then take them to the weavers to make a new carpet. And
+						brooms, we had alot of brooms we made still. We sold brown seed and ah and
+						that would roll up in oh well the top of the stalk would be brushey and then
+						you&apos;d cut that off, it had to be a certain time, it, it just have to be
+						when the time was just right to <pb n="11"/> cut it, just a certain time
+						when it was ready to cut. Then we&apos;d cut that off, cut the tops off of
+						the brown corn and and take it to the, the what did they call the men that
+						made the brooms. I forget (laughs) </ab>
+				</sp>
+				<sp>
+					<speaker>Joan: </speaker>
+					<ab>The broommaker. </ab>
+				</sp>
+				<sp>
+					<speaker>Ada: </speaker>
+					<ab>(laughs) Yeah. </ab>
+				</sp>
+				<sp>
+					<speaker>Joan: </speaker>
+					<ab>Do you remember how he made them. </ab>
+				</sp>
+				<sp>
+					<speaker>Ada: </speaker>
+					<ab>Oh yes. I seen him make them. He had a machine to make them and, and I think
+						we had wood that we had sawed to make broom handles too. Take the brown
+						handles, we could sell broom handles you know at that time. I know oh we had
+						alot of homemade brooms and they all always were good brooms. </ab>
+				</sp>
+				<sp>
+					<speaker>Joan: </speaker>
+					<ab>Were they shaped like our brooms today? </ab>
+				</sp>
+				<sp>
+					<speaker>Ada: </speaker>
+					<ab>Yes. </ab>
+				</sp>
+				<sp>
+					<speaker>Joan: </speaker>
+					<ab>Just like them? </ab>
+				</sp>
+				<sp>
+					<speaker>Ada: </speaker>
+					<ab>They were shaped just like the brooms that you get now. Maybe they were a
+						little heavier. It&apos;s been so long you know I kinda forget about them.
+					</ab>
+				</sp>
+				<sp>
+					<speaker>Joan: </speaker>
+					<ab>What about the quilting bees? Did you have many of those? </ab>
+				</sp>
+				<sp>
+					<speaker>Ada: </speaker>
+					<ab>Oh, oh yes. We, we went to quilt-ins and that would be a great thing. Just
+						the neighborhood around you know at that time we didn&apos;t, we walked
+						quite alot where we went or drove in the horse and baggy or whatever we used
+						what we had to drive with. We&apos;d go to neighbors houses and they&apos;d
+						have, well we generally had about, oh generally about eight, four on each
+						side of the quilt, to guilt and then when we&apos;d have a quilt-in
+						we&apos;d always have a good dinner for, for the quilters and if some of
+						them could stay later why we&apos;d have dinner and supper for them. And but
+						we, My mother and my sister and I quilted a good many quitts just quiltea
+						them ourselves. We liked to guilt themselves better than to bother with
+						having a quilt-in party. </ab>
+				</sp>
+				<sp>
+					<speaker>Joan: </speaker>
+					<ab>Do you remember how old you were when you made your first guilt? </ab>
+				</sp>
+				<sp>
+					<speaker>Ada: </speaker>
+					<ab>Oh I was just eight years old when I made quilt patches. My mother always
+						taught us to sew by hand. We were to learn to sew by hand good before
+						we&apos;d go on the sewing machine and she&apos;d cut us patches, just,
+						we&apos;d called em nine patch, just, just <pb n="12"/> three in a row and
+						then three rows and we&apos;d sew them together to make a patch. Oh I
+						remember how we used to make quilt patches. How we just started out with the
+						nine point patch and we most always made our, our different quilts that we
+						made, we most always made the patches by, sewed em by hand. We could sew em
+						on the sewing machine but my mother thought they were nicer if they were
+						sewed by hand. And ah, we made, we make quilts with the, with the, oh what
+						do they call it when you saw it on top? </ab>
+				</sp>
+				<sp>
+					<speaker>Joan: </speaker>
+					<ab>Applicae </ab>
+				</sp>
+				<sp>
+					<speaker>Ada: </speaker>
+					<ab>Applicae. Yes. We have a big white patch about oh I&apos;d say about
+						12&quot; square and then we&apos;d have a pattern to make a flower on it or
+						a couple leaves or something and we&apos;d applicae sew them on the quilt.
+						They made nice quilts. I think my girls have some of them yet. I gave them
+						to my girls so I don&apos;t have none anymore here but I have other quilts
+						we, we . . . </ab>
+				</sp>
+				<sp>
+					<speaker>Joan: </speaker>
+					<ab>How old would these quilts be then. </ab>
+				</sp>
+				<sp>
+					<speaker>Ada: </speaker>
+					<ab>My, my, my, my, my grandfather had got a whole spun quilt, he got it from
+						home and when we were married they, he had got one from home that was
+						homespun and she had got or my mother-in-law had got one from home and that
+						was factory made though. It was, they were both nice. And she, she gave
+						those quilts to my girls, the one that my father-in-law got from home my
+						daughter Martha got and what my, my mother in-law got that my daughter Alice
+						has and they would be, they would he over a hundred years old anyhow, quite
+						a bit over a hundred because you know my, my father-in-law getting it from
+						home and oh, oh, my daughter she thought that was a wonderful gift. And they
+						never had used it at all they just kept it, you know, because they never use
+						it and my daughter never used it more than she put it on the bed to see how
+						it looked. (laughs) They’re expensive. A person could get a good price for
+						them now if they&apos;d want to sell them. SIDE TWO </ab>
+				</sp>
+				<sp>
+					<speaker>Joan: </speaker>
+					<ab>Do you remember what year New Berlin got electricity? </ab>
+				</sp>
+				<sp>
+					<speaker>Ada: </speaker>
+					<ab>Well lets see, (mumbled figuring in background) About 1904. Because the two
+						first <pb n="13"/> years that I worked for Mrs. Lenker we, we just had coal
+						oil lights and they had those big lights with round wicks in they made a
+						nice light but there was no electricity in New Berlin at that time. But that
+						was the two first years I lived there and I went there first in1902 and 1903
+						and in 1904, I think it was the third summer that I lived there that we got
+						the electric and then there was no water either. You didn’t have indoor
+						toilet because you had no water. And that, we just got water, oh just two
+						years there yet after we had the toilet room. It must have been in about,
+						well between 1904 and 1905 then when we got power and electricity in New
+						Berlin. But before that you know we just had the street lights or the light
+						with a pole on (laughs) or the pole with a light on and, and the man would
+						come around and just put a certain amount of coal oil in and light it and
+						then when that coal oil was all burned out then the light would go out
+						itself and he was just supposed to put so much in then it was to last for
+						several hours. That was until we got the electric. </ab>
+				</sp>
+				<sp>
+					<speaker>Joan: </speaker>
+					<ab>Did people go out at night? </ab>
+				</sp>
+				<sp>
+					<speaker>Ada: </speaker>
+					<ab>Oh, well we, at that time, we always had church Sunday evenings. We,
+						we&apos;d go to church Sunday evenings and we&apos;d have prayer meetings
+						Wednesday evenings and then we&apos;d have festivals in the town hall, &amp;
+						our church or Sunday School school would have icecream or cakes, different
+						people baked cakes and we had a festival in the evenings but that was about
+						all that was going on. There really was no, no factories at that time, not
+						in New Berlin, there was nobody, the girls, alot of the girls used to go to
+						Eagle Mere for I think it lasted for about eight weeks, they would go to
+						these mountain resort and they would get good pay there. Alot of the young
+						people would go to the,I know to Eagle Mere there was alot went, I don’t
+						know and I can&apos;t name any other places I just remember that they went.
+					</ab>
+				</sp>
+				<sp>
+					<speaker>Joan: </speaker>
+					<ab>You said about getting water in New Berlin and up until that time you didn’t
+						have indoor plumbing. Can you remember the old outside plumbling? </ab>
+				</sp>
+				<sp>
+					<speaker>Ada: </speaker>
+					<ab>What, what we . . . </ab>
+				</sp>
+				<sp>
+					<speaker>Joan: </speaker>
+					<ab>Yeah, can you remember <pb n="14"/>
+					</ab>
+				</sp>
+				<sp>
+					<speaker>Ada: </speaker>
+					<ab>Well, well we&apos;d, we just had well water and system water. We had a
+						system. And a well. The well right outside of the kitchen door on the walk.
+						And in the yard there was a, a system that the spounting run into that, that
+						we had drainwater there that we used for washing. We had, there was no
+						washing machines at that time. We had to wash everything by hand on the
+						machine that you rubbed on. </ab>
+				</sp>
+				<sp>
+					<speaker>Joan: </speaker>
+					<ab>What about the outdoor bathrooms? You said that there was something very
+						typical that they all were sort of the same on the inside. It was kind of
+						funny to go to the bathroom. </ab>
+				</sp>
+				<sp>
+					<speaker>Ada: </speaker>
+					<ab>Well people generally just hung pictures in the toilet. We, we would tack up
+						old valentines of if we had nice calenders with nice pictures on why
+						we&apos;d, we&apos;d hang them in and we used to have it all almost papered
+						with something nice to look at. </ab>
+				</sp>
+				<sp>
+					<speaker>Joan: </speaker>
+					<ab>You said there was always a box full of newspapers there too. </ab>
+				</sp>
+				<sp>
+					<speaker>Ada: </speaker>
+					<ab>yes. (laughs) Yes, we didn&apos;t know anything about toilet paper at that
+						time. We just had a box with newspapers in for on the toilet. And ah...
+					</ab>
+				</sp>
+				<sp>
+					<speaker>Joan: </speaker>
+					<ab>What about in the wintertime? </ab>
+				</sp>
+				<sp>
+					<speaker>Ada: </speaker>
+					<ab>Well it was the same in the winter as in the summer only it was colder. It
+						made no difference, why even the Slackers, they were very wealthy people,
+						but no inside toilet as long as they didn&apos;t have the water. </ab>
+				</sp>
+				<sp>
+					<speaker>Joan: </speaker>
+					<ab>So when it snowed I guess it was pretty important to shove! a path to the .
+						. . </ab>
+				</sp>
+				<sp>
+					<speaker>Ada: </speaker>
+					<ab>(laughs) Yes. That was about the first thing they, they had to have a path
+						shoveled to the, to the, we called them the out-houses at that time, they
+						didn’t call them the bathroom because there was no bathroom (laughs) </ab>
+				</sp>
+				<sp>
+					<speaker>Joan: </speaker>
+					<ab>Did you have sleighrides in the wintertime? </ab>
+				</sp>
+				<sp>
+					<speaker>Ada: </speaker>
+					<ab>Oh yes. We used to like when it snowed. Thats when we lived on the farm when
+						we had a big shed and horses. We, we&apos;d have someone that would, would
+						drive, we’d we&apos;d just have a, put straw in the, in the wagon box and,
+						and you&apos;d have boards for seats up along the side and there were, oh
+						there were maybe a dozen or so go on a sleighride and we&apos;d have a dance
+						someplace or play playing parties. You know oft times you took <pb n="15"/>
+						good to eat along and we&apos;d make taffy sometimes and we’d have parties
+						like that because we didn’t go too far, not like they go now in cars,
+						because we had to drive or walk wherever we went then. </ab>
+				</sp>
+				<sp>
+					<speaker>Joan: </speaker>
+					<ab>Did you have traveling salesmen in those days? </ab>
+				</sp>
+				<sp>
+					<speaker>Ada: </speaker>
+					<ab>Traveling salesmen. Oh yes, and I remember when peddlers used to come
+						around, they&apos;d have a pack on their back, I know when I was a kid I
+						used to be afraid of the peddlers and they, they would come and they would
+						have oh a variety of things in their pack and they&apos;d always want to
+						sell things. It seemed some of the jews had they said they got their start
+						by peddling and, and they always were good managers or good workers it
+						seemed because they usually started in the small scale and soon they&apos;d
+						start up a little store and they, they&apos;d seem to prosper and get along
+						alright. And I, I even know that they would matches, that they could come
+						around with just big bundles of matches in that you could buy a box of
+						matches that they were only you know like these penny boxes that they got
+						now, they were bigger boxes but there&apos;d be about six packs or boxes in
+						a pack. They were larger matches. We often brought matches from him. And
+						there would be so many we called them tramps that would go around and
+						they&apos;d come and ask for something to eat. They&apos;d ask if they
+						couldn&apos;t have a cup of coffee or whether they could have a, just
+						anything that we could hand out, a piece of bread or pie or cake or whatever
+						we had to give or to spare, there was a good many came around in those
+						times. </ab>
+				</sp>
+				<sp>
+					<speaker>Joan: </speaker>
+					<ab>Did they ever stay in the area for any length of time or did they just stop
+						for a meal and keep on going? </ab>
+				</sp>
+				<sp>
+					<speaker>Ada: </speaker>
+					<ab>They would just stop and if you&apos;d give them something to eat they would
+						thank you for it and then they&apos;d go. There was a, a certain, a certain
+						Mr. Fisher that came around every year and he just had several places where
+						he stopped that writing, thats what he made. Ah they made writing or paper,
+						paper rocks or leather rocks, or . . . </ab>
+				</sp>
+				<sp>
+					<speaker>Joan: </speaker>
+					<ab>Like, like comb racks and things like that? </ab>
+				</sp>
+				<sp>
+					<speaker>Ada: </speaker>
+					<ab>Yes, comb racks. They carried the wood along with them. They&apos;d have ah,
+						ah, <pb n="16"/> ah, bundle that they would carry you know and they would
+						ask you for, oh for this old man that made these paper rocks he would ask
+						for you to give him a piece of bacon or a couple potatoes he would make a
+						fire out and eat roast potatoes in the ashes he said and oh sometimes he
+						wanted sauerkraut or something that he could boil out in the woods. He never
+						wanted to, to,to come in the house and eat a meal with us he always wanted
+						something to take along out and he would, he would cook for himself outside.
+						(laughs) </ab>
+				</sp>
+				<sp>
+					<speaker>Joan: </speaker>
+					<ab>Then he&apos;d pay you by making the comb rack. </ab>
+				</sp>
+				<sp>
+					<speaker>Ada: </speaker>
+					<ab>Yes he&apos;d, he would, yes he would have his wood along and, and if you
+						would give him enough why he would make you a comb rack or a paper rack
+						or... and they, they were nice we, I know a lot of people that have them and
+						I have one now and there. different people that said they wished they could
+						get one like it. They&apos;re old you know, my that was way back. And it
+						must have been a hundred years ago because it, it, my father-in-law had it
+						and then Norman got it and now I have it yet. And then there was a, a, it
+						was supposed to be a comb box, you could use it for a comb or for a paper
+						rack and Connie has that. Oh she thought that was wonderful. She took that
+						along and fixed it up to hang up. She liked antiques so much. There&apos;s
+						nobody comes around you’ know, for years nobody&apos;s come around and asked
+						for something to eat like use to but then people weren&apos;t, weren&apos;t
+						kept like they are now and they didn&apos;t . . . </ab>
+				</sp>
+			</div>
+		</body>
+	</text>
+</TEI>
